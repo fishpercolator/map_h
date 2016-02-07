@@ -3,6 +3,9 @@
 Adds a `map_h` method to Enumerable for easily building hashes from a 
 given block.
 
+[![Gem Version](https://img.shields.io/gem/v/map_h.svg?style=flat)](https://rubygems.org/gems/map_h)
+[![Build Status](https://img.shields.io/travis/fishpercolator/map_h/master.svg?style=flat)](https://travis-ci.org/fishpercolator/map_h)
+
 This is similar to the existing `map` method, but retains the original values
 as the keys in the resulting hash.
 
